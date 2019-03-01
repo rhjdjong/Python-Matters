@@ -1,5 +1,5 @@
 name: Ruud de Jong
 theme: jekyll-theme-tactile
-permalink: /PythonMatters/blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 url: https://rhjdjong.github.io/PythonMatters
 
