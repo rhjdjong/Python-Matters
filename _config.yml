@@ -1,2 +1,4 @@
 name: Ruud de Jong
 theme: jekyll-theme-tactile
+permalink: /blog/:year/:month/:day/:title
+
