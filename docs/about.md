@@ -1,4 +1,4 @@
-# Python Matters
+# About me
 
 My name is Ruud de Jong. I have worked as software engineer, requirements engineer,
 software architect and related positions at various companies.
