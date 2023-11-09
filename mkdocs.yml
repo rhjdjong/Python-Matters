@@ -1,6 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: Python Matters
+copyright: >
+  Copyright &copy; 2019 - 2023 Ruud de Jong
 theme:
   name: material
   palette:
@@ -18,3 +20,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.integrate
+
+plugins:
+  - search
